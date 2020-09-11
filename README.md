@@ -1,2 +1,7 @@
 # hello-world
-Start to learning de first's steps about GitHub
+My name is Marcus
+
+This is my first experience in the GitHub.
+I never program before, but I'm excited to learn
+More..
+
